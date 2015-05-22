@@ -1,0 +1,21 @@
+.Footer {
+ height: 80px;
+
+ color: white;
+ background-color: #404040;
+
+ a {
+     text-decoration: none;
+     color: white;
+ }
+}
+
+// Applica solo a schermi con width > 800px
+//@media (min-width: 800px) {
+@media (min-height: 800px) {
+  .Footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+}

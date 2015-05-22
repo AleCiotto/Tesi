@@ -1,0 +1,37 @@
+
+[2015-01-07 16:50:39] eliminati  richieste sospese.
+[2015-01-07 16:50:59] no one result (or error?).
+[2015-01-07 16:51:05] no one result (or error?).
+[2015-01-07 16:56:41] no one result (or error?).
+[2015-01-07 17:02:48] no one result (or error?).
+[2015-01-07 17:04:26] no one result (or error?).
+[2015-01-07 17:05:57] no one result (or error?).
+[2015-01-07 17:09:30] no one result (or error?).
+[2015-01-07 17:10:28] no one result (or error?).
+[2015-01-09 12:36:10] eliminati 3 richieste sospese.
+[2015-01-11 18:00:21] nessun risultato.
+[2015-01-27 09:53:47] nessun risultato.mail_result = false
+[2015-01-27 09:58:05] nessun risultato.
+[2015-01-27 11:12:19] nessun risultato.
+[2015-01-27 11:13:04] nessun risultato.mail_result = true
+[2015-02-03 10:53:45] nessun risultato.
+[2015-02-03 11:09:45] nessun risultato.
+[2015-02-03 11:21:50] eliminati 1 richieste sospese.
+[2015-02-03 11:21:50]  id_fornitori[] size 1
+[2015-02-03 11:21:50]  j = 0
+[2015-02-03 11:21:50]  id_fornitore = 52
+[2015-02-03 11:23:36] nessun risultato.
+[2015-02-18 13:01:59]  1 richieste scadute.
+[2015-02-18 13:01:59] id_fornitori[] size 1
+[2015-02-18 13:01:59] stato fornitore id 52 aggiornato.
+[2015-02-18 13:02:20] nessun risultato.
+[2015-02-18 16:28:36]  2 richieste scadute.
+[2015-02-18 16:28:36] id_fornitori[] size 2
+[2015-02-18 16:28:36] stato fornitore id 52 aggiornato.
+[2015-02-18 16:28:36] errore durante l' aggiornamento dello stato del fornitore.
+[2015-02-18 16:31:11] nessun risultato.
+[2015-02-18 16:36:50]  1 richieste scadute.
+[2015-02-18 16:36:50] id_fornitori[] size 1
+[2015-02-18 16:36:50] stato fornitore id 7 aggiornato.
+[2015-02-18 16:36:53] nessun risultato.
+[2015-02-18 16:38:58] nessun risultato.

@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "WebApp Artigiani",
+  "launch_path": "/index.php",
+  "description": "A front-end template that helps you build fast, modern mobile web apps.",
+  "icons": {
+    "128": "/images/app_icon.png"
+  },
+  "developer": {
+    "name": "Alessandro Mercurio",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "it",
+  "permissions": {
+  },
+  "locales": {
+    "it": {
+      "name": "WebApp Artigiani",
+      "description": "Sistema real-time per la richiesta di preventivi e consulenze."
+    }
+  }
+}
